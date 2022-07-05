@@ -7,12 +7,16 @@ h1 {
     font-size: 50px;
 }
 
+.orange-color {
+    color: tomato;
+}
+
 #flexibale-continer-se {
     background-image: url(images/donation1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
     text-align: center;
     color: white;
     height: 900px;
