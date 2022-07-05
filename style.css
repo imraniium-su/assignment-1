@@ -34,30 +34,26 @@ h1 {
     font-weight: 700;
     text-align: center;
     margin-left: 10px;
-
-
 }
 
 .Donate-t {
     text-align: center;
     padding: 0% 25%;
     margin-bottom: 40px;
-
 }
 
 .amount {
     width: 20%;
     margin: 40px 10px;
-    padding: 40px;
+    padding: 10px;
     border: 2px solid white;
     background-color: whitesmoke;
-
 }
 
 .amount-mark {
     width: 20%;
     margin: 40px 10px;
-    padding: 40px;
+    padding: 10px;
     border: 2px solid tomato;
     background-color: #FFEEEE;
     color: tomato;
@@ -66,23 +62,21 @@ h1 {
 .donate-amount {
     display: flex;
     border-radius: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     text-align: center;
-    margin-left: 18%;
-    margin-right: 40%;
+    margin-left: 22%;
+    margin-right: 22%;
 }
 
 .donate-other {
     text-align: center;
     margin: 0px 30% 40px 30%;
-
 }
 
 .donate-plan {
     display: flex;
     margin: 10px 50px;
     margin-bottom: 40px;
-
 }
 
 .donate-plan-width1 {
@@ -104,7 +98,7 @@ h1 {
 .donate-plan-width3 {
     width: 33%;
     margin: 0px 10px;
-    background-color: #fff4d6;
+    background-color: #fff36d;
     margin: 0px 15px 5px 20px;
     padding: 0px 10px 5px 25px;
 }
