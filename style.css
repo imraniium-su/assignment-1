@@ -86,7 +86,7 @@ h1 {
 
 .donate-plan {
     display: flex;
-    margin: 70px 70px;
+    margin: 70px 80px;
 
 }
 
@@ -126,14 +126,21 @@ h1 {
 
 .volunter-join {
     width: 50%;
-    margin: 15px;
+    margin: 20px;
     background-size: cover;
+    padding: 40px 20px 0px 40px;
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
 }
 
 .volunter-join-img {
     width: 50%;
-    margin: 15px;
+    margin: 20px 25px 20px 20px;
     background-size: cover;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
+
 }
 
 .donate-plan img {
@@ -145,14 +152,22 @@ h1 {
     width: 50%;
     margin: 15px;
     background-size: cover;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
 }
 
 .fundrise {
     width: 50%;
     margin: 15px;
     background-size: cover;
+    padding: 40px 20px 15px 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
 }
 
+.fundrise h1 {
+    text-align: center;
+}
 
 .email-send {
     text-align: center;
@@ -198,4 +213,16 @@ footer div {
 footer h2 {
     color: #FF5959;
     font-family: lobster;
+}
+
+.design-back {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.design-back-fu {
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
