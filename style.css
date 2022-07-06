@@ -11,17 +11,16 @@ h1 {
     color: tomato;
 }
 
-#flexibale-continer-se {
-    background-image: url(images/donation1.jpg);
+#header {
+    background-image: url(images/donation5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
-    margin-bottom: 40px;
+}
+
+#flexibale-continer-se {
     text-align: center;
     color: white;
-    height: 900px;
-    padding-top: 140px;
-    image-resolution: auto;
+    padding: 10%;
 
 }
 
@@ -47,29 +46,35 @@ h1 {
 }
 
 .amount {
-    width: 20%;
-    margin: 40px 10px;
-    padding: 10px;
+    width: 123px;
+    height: 136px;
+    margin: 10px;
     border: 2px solid white;
-    background-color: whitesmoke;
+    font-size: 30px;
+
 }
 
 .amount-mark {
-    width: 20%;
-    margin: 40px 10px;
+    width: 123px;
+    height: 136px;
+    margin: 10px;
     padding: 10px;
     border: 2px solid tomato;
     background-color: #FFEEEE;
     color: tomato;
+    font-size: 30px;
 }
 
 .donate-amount {
-    display: flex;
-    border-radius: 15px;
-    margin-bottom: 40px;
     text-align: center;
-    margin-left: 22%;
-    margin-right: 22%;
+}
+
+.donate-number {
+    width: 500px;
+    border: 0;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    font-size: 20px;
 }
 
 .donate-other {
@@ -102,7 +107,7 @@ h1 {
 .donate-plan-width3 {
     width: 33%;
     margin: 0px 10px;
-    background-color: #fff36d;
+    background-color: #FFF4D6;
     margin: 0px 15px 5px 20px;
     padding: 0px 10px 5px 25px;
 }
