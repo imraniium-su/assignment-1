@@ -42,7 +42,7 @@ h1 {
 .Donate-t {
     text-align: center;
     padding: 0% 25%;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .amount {
@@ -85,7 +85,7 @@ h1 {
 .donate-plan {
     display: flex;
     margin: 10px 50px;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
 }
 
 .donate-plan-width1 {
@@ -117,4 +117,72 @@ h1 {
     height: 40px;
     object-fit: cover;
     padding: 40px 0px 0px 20px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 100px;
+    margin-left: 40px;
+}
+
+.half-width-rt {
+    width: 50%;
+    margin-right: 30px;
+    padding-right: 100px;
+}
+
+.half-width img {
+    padding-left: 10px;
+    width: 80%;
+}
+
+.flexibale-continer {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.email-send {
+    text-align: center;
+    background-color: #FFF4D6;
+    margin: 0 25%;
+    padding: 70px;
+    margin-bottom: 50px;
+}
+
+.email-send input {
+    text-align: left;
+    border: 0;
+    height: 25px;
+    background-color: gainsboro;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.email-send button {
+    background-color: #FF5959;
+    color: white;
+    border: 0;
+    height: 27px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.footer {
+
+    margin-top: 40px;
+    text-align: center;
+    height: 200px;
+    background-color: black;
+
+}
+
+footer div {
+    padding-top: 50px;
+    padding-right: 30px;
+    color: gray;
+}
+
+footer h2 {
+    color: #FF5959;
+    font-family: lobster;
 }
