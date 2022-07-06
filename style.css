@@ -92,32 +92,37 @@ h1 {
 
 .donate-plan-width {
     width: 33%;
-    height: auto;
-    margin: 0px 10px;
-    margin: 0px 15px 5px 20px;
-    padding: 0px 10px 5px 25px;
+    margin: 10px 10px;
+
 }
 
-/* .donate-plan-width h3 {
-    border-top: 20px;
-} */
+.donate-div {
+    display: flex;
+    margin: 10px 100px;
+
+}
 
 .donate-plan-width1 {
     background-color: #EDF5F6;
+    margin: 10px 15px 5px 20px;
+    padding: 55px 10px 5px 25px;
+    border-radius: 2px;
 }
 
 .donate-plan-width2 {
     background-color: #ffeeee;
+    margin: 10px 15px 5px 20px;
+    padding: 55px 10px 5px 25px;
+    border-radius: 2px;
 }
 
 .donate-plan-width3 {
     background-color: #FFF4D6;
+    margin: 10px 15px 5px 20px;
+    padding: 55px 10px 5px 25px;
+    border-radius: 2px;
 }
 
-.donate-icon-image {
-    height: 20px;
-    width: 5px;
-}
 
 .volunter-join {
     width: 50%;
